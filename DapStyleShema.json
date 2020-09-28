@@ -1,0 +1,314 @@
+
+{
+    "primaryColor": "black",
+    "secondaryColor": "red",
+    "tertiaryColor": "green",
+    "primaryFont": "title",
+    "secondaryFont": "body",
+    "inputStyle": {
+        "labelStyle": {
+            "textAlighment": null,
+            "numberOfLines": 0,
+            "primaryColor": "black",
+            "secondaryColor": "red",
+            "tertiaryColor": "green",
+            "primaryFont": "title",
+            "secondaryFont": "body",
+            "height": 35,
+            "width": null,
+            "cornerRadius": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "margine": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "padding": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            }
+        },
+        "iconStyle": {
+            "primaryColor": "black",
+            "secondaryColor": "red",
+            "tertiaryColor": "green",
+            "primaryFont": null,
+            "secondaryFont": null,
+            "height": 35,
+            "width": null,
+            "cornerRadius": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "margine": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "padding": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            }
+        },
+        "primaryColor": "black",
+        "secondaryColor": "red",
+        "tertiaryColor": "green",
+        "primaryFont": "title",
+        "secondaryFont": "body",
+        "height": 35,
+        "width": null,
+        "cornerRadius": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        },
+        "margine": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        },
+        "padding": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        }
+    },
+    "cardStyle": {
+        "labelStyle": {
+            "textAlighment": null,
+            "numberOfLines": 0,
+            "primaryColor": "black",
+            "secondaryColor": "yellow",
+            "tertiaryColor": "green",
+            "primaryFont": "body",
+            "secondaryFont": "caption1",
+            "height": null,
+            "width": null,
+            "cornerRadius": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "margine": {
+                "top": null,
+                "bottom": null,
+                "left": 8,
+                "righ": 8,
+                "all": null
+            },
+            "padding": {
+                "top": 16,
+                "bottom": 16,
+                "left": null,
+                "righ": null,
+                "all": null
+            }
+        },
+        "iconStyle": {
+            "primaryColor": "black",
+            "secondaryColor": "red",
+            "tertiaryColor": "green",
+            "primaryFont": null,
+            "secondaryFont": null,
+            "height": 100,
+            "width": 50,
+            "cornerRadius": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": 25
+            },
+            "margine": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "padding": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            }
+        },
+        "primaryColor": "yellowgreen",
+        "secondaryColor": "red",
+        "tertiaryColor": "green",
+        "primaryFont": "title",
+        "secondaryFont": "body",
+        "height": 150,
+        "width": null,
+        "cornerRadius": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": 4
+        },
+        "margine": {
+            "top": 0,
+            "bottom": 0,
+            "left": 0,
+            "righ": 0,
+            "all": null
+        },
+        "padding": {
+            "top": 16,
+            "bottom": 16,
+            "left": null,
+            "righ": null,
+            "all": null
+        }
+    },
+    "headerStyle": {
+        "labelStyle": {
+            "textAlighment": null,
+            "numberOfLines": 0,
+            "primaryColor": "black",
+            "secondaryColor": "red",
+            "tertiaryColor": "green",
+            "primaryFont": "title",
+            "secondaryFont": "body",
+            "height": 35,
+            "width": null,
+            "cornerRadius": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "margine": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "padding": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            }
+        },
+        "iconStyle": {
+            "primaryColor": "black",
+            "secondaryColor": "red",
+            "tertiaryColor": "green",
+            "primaryFont": null,
+            "secondaryFont": null,
+            "height": 35,
+            "width": null,
+            "cornerRadius": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "margine": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            },
+            "padding": {
+                "top": null,
+                "bottom": null,
+                "left": null,
+                "righ": null,
+                "all": null
+            }
+        },
+        "primaryColor": "black",
+        "secondaryColor": "red",
+        "tertiaryColor": "green",
+        "primaryFont": "title",
+        "secondaryFont": "body",
+        "height": 35,
+        "width": null,
+        "cornerRadius": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        },
+        "margine": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        },
+        "padding": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        }
+    },
+    "buttonStyle": {
+        "primaryColor": "black",
+        "secondaryColor": "red",
+        "tertiaryColor": "green",
+        "primaryFont": "title",
+        "secondaryFont": "body",
+        "height": 35,
+        "width": null,
+        "cornerRadius": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        },
+        "margine": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        },
+        "padding": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "righ": null,
+            "all": null
+        }
+    }
+}
