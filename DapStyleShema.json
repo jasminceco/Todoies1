@@ -100,7 +100,7 @@
     "cardStyle": {
         "labelStyle": {
             "textAlighment": null,
-            "numberOfLines": 0,
+            "numberOfLines": 2,
             "primaryColor": "black",
             "secondaryColor": "yellow",
             "tertiaryColor": "green",
