@@ -166,13 +166,13 @@
         "primaryFont": "title",
         "secondaryFont": "body",
         "height": 150,
-        "width": null,
+        "width": 200,
         "cornerRadius": {
             "top": null,
             "bottom": null,
             "left": null,
             "righ": null,
-            "all": 4
+            "all": 20
         },
         "margine": {
             "top": 0,
