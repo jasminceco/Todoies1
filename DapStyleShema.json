@@ -1,40 +1,70 @@
 
 {
     "primaryColor": "black",
-    "secondaryColor": "red",
+    "secondaryColor": "hotpink",
     "tertiaryColor": "green",
     "primaryFont": "title",
     "secondaryFont": "body",
+    "labelStyle": {
+        "primaryColor": "goldenrod",
+        "secondaryColor": "white",
+        "tertiaryColor": "bla2ck",
+        "primaryFont": "title3",
+        "secondaryFont": "body",
+        "height": null,
+        "width": null,
+        "cornerRadius": {
+            "top": null,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "all": null
+        },
+        "margine": {
+            "top": 0,
+            "bottom": 0,
+            "left": 16,
+            "right": 16,
+            "all": null
+        },
+        "padding": {
+            "top": 32,
+            "bottom": null,
+            "left": null,
+            "right": null,
+            "all": null
+        }
+    },
     "inputStyle": {
         "labelStyle": {
-            "textAlighment": null,
-            "numberOfLines": 0,
-            "primaryColor": "black",
+            "primaryColor": "goldenrod",
             "secondaryColor": "red",
             "tertiaryColor": "green",
             "primaryFont": "title",
             "secondaryFont": "body",
-            "height": 35,
+            "height": null,
             "width": null,
+            "textAlighment": null,
+            "numberOfLines": 0,
             "cornerRadius": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "margine": {
                 "top": null,
                 "bottom": null,
-                "left": null,
-                "righ": null,
+                "left": 8,
+                "right": 8,
                 "all": null
             },
             "padding": {
-                "top": null,
-                "bottom": null,
+                "top": 16,
+                "bottom": 16,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             }
         },
@@ -50,25 +80,25 @@
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "margine": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "padding": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             }
         },
-        "primaryColor": "black",
+        "primaryColor": "white",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "title",
@@ -79,28 +109,28 @@
             "top": null,
             "bottom": null,
             "left": null,
-            "righ": null,
+            "right": null,
             "all": null
         },
         "margine": {
-            "top": null,
-            "bottom": null,
-            "left": null,
-            "righ": null,
-            "all": null
+            "top": 0,
+            "bottom": 0,
+            "left":16 ,
+            "right": 16,
+            "all": 0
         },
         "padding": {
-            "top": null,
-            "bottom": null,
-            "left": null,
-            "righ": null,
-            "all": null
+            "top": 0,
+            "bottom": 0,
+            "left": 16,
+            "right": 0,
+            "all": 0
         }
     },
     "cardStyle": {
         "labelStyle": {
             "textAlighment": null,
-            "numberOfLines": 2,
+            "numberOfLines": 0,
             "primaryColor": "black",
             "secondaryColor": "yellow",
             "tertiaryColor": "green",
@@ -112,21 +142,21 @@
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "margine": {
                 "top": null,
                 "bottom": null,
                 "left": 8,
-                "righ": 8,
+                "right": 8,
                 "all": null
             },
             "padding": {
                 "top": 16,
                 "bottom": 16,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             }
         },
@@ -142,50 +172,50 @@
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": 25
             },
             "margine": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "padding": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             }
         },
-        "primaryColor": "mediumseagreen",
+        "primaryColor": "goldenrod",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "title",
         "secondaryFont": "body",
         "height": 150,
-        "width": 200,
+        "width": null,
         "cornerRadius": {
             "top": null,
             "bottom": null,
             "left": null,
-            "righ": null,
-            "all": 20
+            "right": null,
+            "all": 4
         },
         "margine": {
             "top": 0,
             "bottom": 0,
             "left": 0,
-            "righ": 0,
+            "right": 0,
             "all": null
         },
         "padding": {
             "top": 16,
             "bottom": 16,
             "left": null,
-            "righ": null,
+            "right": null,
             "all": null
         }
     },
@@ -194,31 +224,31 @@
             "textAlighment": null,
             "numberOfLines": 0,
             "primaryColor": "black",
-            "secondaryColor": "red",
+            "secondaryColor": "hotpink",
             "tertiaryColor": "green",
-            "primaryFont": "title",
-            "secondaryFont": "body",
-            "height": 35,
+            "primaryFont": "title1",
+            "secondaryFont": "headline",
+            "height": null,
             "width": null,
             "cornerRadius": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "margine": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "padding": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             }
         },
@@ -234,80 +264,80 @@
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "margine": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             },
             "padding": {
                 "top": null,
                 "bottom": null,
                 "left": null,
-                "righ": null,
+                "right": null,
                 "all": null
             }
         },
-        "primaryColor": "black",
+        "primaryColor": "goldenrod",
         "secondaryColor": "red",
         "tertiaryColor": "green",
-        "primaryFont": "title",
+        "primaryFont": "caption1",
         "secondaryFont": "body",
-        "height": 35,
+        "height": 128,
         "width": null,
         "cornerRadius": {
             "top": null,
             "bottom": null,
             "left": null,
-            "righ": null,
+            "right": null,
             "all": null
         },
         "margine": {
             "top": null,
             "bottom": null,
             "left": null,
-            "righ": null,
+            "right": null,
             "all": null
         },
         "padding": {
             "top": null,
             "bottom": null,
             "left": null,
-            "righ": null,
+            "right": null,
             "all": null
         }
     },
     "buttonStyle": {
-        "primaryColor": "black",
-        "secondaryColor": "red",
-        "tertiaryColor": "green",
-        "primaryFont": "title",
+        "primaryColor": "goldenrod",
+        "secondaryColor": "white",
+        "tertiaryColor": "bla2ck",
+        "primaryFont": "title1",
         "secondaryFont": "body",
-        "height": 35,
+        "height": 55,
         "width": null,
         "cornerRadius": {
             "top": null,
             "bottom": null,
             "left": null,
-            "righ": null,
+            "right": null,
             "all": null
         },
         "margine": {
-            "top": null,
-            "bottom": null,
-            "left": null,
-            "righ": null,
+            "top": 0,
+            "bottom": 0,
+            "left": 16,
+            "right": 16,
             "all": null
         },
         "padding": {
-            "top": null,
+            "top": 32,
             "bottom": null,
             "left": null,
-            "righ": null,
+            "right": null,
             "all": null
         }
     }
