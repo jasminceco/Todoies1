@@ -1,4 +1,5 @@
 
+
 {
     "primaryColor": "black",
     "secondaryColor": "hotpink",
@@ -6,7 +7,7 @@
     "primaryFont": "title",
     "secondaryFont": "body",
     "labelStyle": {
-        "primaryColor": "cornflowerblue",
+        "primaryColor": "goldenrod",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title3",
@@ -37,7 +38,7 @@
     },
     "inputStyle": {
         "labelStyle": {
-            "primaryColor": "cornflowerblue",
+            "primaryColor": "goldenrod",
             "secondaryColor": "red",
             "tertiaryColor": "green",
             "primaryFont": "title",
@@ -190,7 +191,7 @@
                 "all": null
             }
         },
-        "primaryColor": "cornflowerblue",
+        "primaryColor": "goldenrod",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "title",
@@ -282,7 +283,7 @@
                 "all": null
             }
         },
-        "primaryColor": "cornflowerblue",
+        "primaryColor": "goldenrod",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "caption1",
@@ -312,7 +313,7 @@
         }
     },
     "buttonStyle": {
-        "primaryColor": "cornflowerblue",
+        "primaryColor": "goldenrod",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title1",
