@@ -1,5 +1,6 @@
 
 
+
 {
     "primaryColor": "black",
     "secondaryColor": "hotpink",
@@ -7,7 +8,7 @@
     "primaryFont": "title",
     "secondaryFont": "body",
     "labelStyle": {
-        "primaryColor": "opa",
+        "primaryColor": "goldenrod",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title3",
@@ -38,7 +39,7 @@
     },
     "inputStyle": {
         "labelStyle": {
-            "primaryColor": "opa",
+            "primaryColor": "goldenrod",
             "secondaryColor": "red",
             "tertiaryColor": "green",
             "primaryFont": "title",
