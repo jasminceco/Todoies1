@@ -7,7 +7,7 @@
     "primaryFont": "title",
     "secondaryFont": "body",
     "labelStyle": {
-        "primaryColor": "goldenrod",
+        "primaryColor": "opa",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title3",
@@ -38,7 +38,7 @@
     },
     "inputStyle": {
         "labelStyle": {
-            "primaryColor": "goldenrod",
+            "primaryColor": "opa",
             "secondaryColor": "red",
             "tertiaryColor": "green",
             "primaryFont": "title",
@@ -191,7 +191,7 @@
                 "all": null
             }
         },
-        "primaryColor": "goldenrod",
+        "primaryColor": "opa",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "title",
@@ -283,7 +283,7 @@
                 "all": null
             }
         },
-        "primaryColor": "goldenrod",
+        "primaryColor": "opa",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "caption1",
@@ -313,7 +313,7 @@
         }
     },
     "buttonStyle": {
-        "primaryColor": "goldenrod",
+        "primaryColor": "opa",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title1",
