@@ -6,7 +6,7 @@
     "primaryFont": "title",
     "secondaryFont": "body",
     "labelStyle": {
-        "primaryColor": "aquamarine",
+        "primaryColor": "cornflowerblue",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title3",
@@ -37,7 +37,7 @@
     },
     "inputStyle": {
         "labelStyle": {
-            "primaryColor": "aquamarine",
+            "primaryColor": "cornflowerblue",
             "secondaryColor": "red",
             "tertiaryColor": "green",
             "primaryFont": "title",
@@ -190,7 +190,7 @@
                 "all": null
             }
         },
-        "primaryColor": "aquamarine",
+        "primaryColor": "cornflowerblue",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "title",
@@ -282,7 +282,7 @@
                 "all": null
             }
         },
-        "primaryColor": "aquamarine",
+        "primaryColor": "cornflowerblue",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "caption1",
@@ -312,7 +312,7 @@
         }
     },
     "buttonStyle": {
-        "primaryColor": "aquamarine",
+        "primaryColor": "cornflowerblue",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title1",
