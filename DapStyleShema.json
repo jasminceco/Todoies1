@@ -189,7 +189,7 @@
                 "all": null
             }
         },
-        "primaryColor": "opa",
+        "primaryColor": "nlb",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "title",
@@ -281,7 +281,7 @@
                 "all": null
             }
         },
-        "primaryColor": "opa",
+        "primaryColor": "nlb",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "caption1",
@@ -311,7 +311,7 @@
         }
     },
     "buttonStyle": {
-        "primaryColor": "opa",
+        "primaryColor": "nlb",
         "secondaryColor": "white",
         "tertiaryColor": "bla2ck",
         "primaryFont": "title1",
