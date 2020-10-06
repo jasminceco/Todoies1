@@ -1,3 +1,4 @@
+
 {
     "primaryColor": "black",
     "secondaryColor": "hotpink",
@@ -6,8 +7,8 @@
     "secondaryFont": "body",
     "labelStyle": {
         "primaryColor": "goldenrod",
-        "secondaryColor": "white",
-        "tertiaryColor": "bla2ck",
+        "secondaryColor": "black",
+        "tertiaryColor": "red",
         "primaryFont": "title3",
         "secondaryFont": "body",
         "height": null,
@@ -20,17 +21,17 @@
             "all": null
         },
         "margine": {
-            "top": 0,
+            "top": 12,
             "bottom": 0,
             "left": 16,
             "right": 16,
             "all": null
         },
         "padding": {
-            "top": 32,
+            "top": 12,
             "bottom": null,
-            "left": null,
-            "right": null,
+            "left": 12,
+            "right": 16,
             "all": null
         }
     },
@@ -122,7 +123,7 @@
             "top": 0,
             "bottom": 0,
             "left": 16,
-            "right": 0,
+            "right": 16,
             "all": 0
         }
     },
@@ -130,7 +131,7 @@
         "labelStyle": {
             "textAlighment": null,
             "numberOfLines": 0,
-            "primaryColor": "black",
+            "primaryColor": "white",
             "secondaryColor": "yellow",
             "tertiaryColor": "green",
             "primaryFont": "body",
@@ -189,23 +190,23 @@
                 "all": null
             }
         },
-        "primaryColor": "nlb",
+        "primaryColor": "opa",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "title",
         "secondaryFont": "body",
-        "height": 150,
-        "width": null,
+        "height": 300,
+        "width": 120,
         "cornerRadius": {
             "top": null,
             "bottom": null,
             "left": null,
             "right": null,
-            "all": 4
+            "all": 20
         },
         "margine": {
             "top": 0,
-            "bottom": 0,
+            "bottom": 16,
             "left": 0,
             "right": 0,
             "all": null
@@ -222,7 +223,7 @@
         "labelStyle": {
             "textAlighment": null,
             "numberOfLines": 0,
-            "primaryColor": "black",
+            "primaryColor": "white",
             "secondaryColor": "hotpink",
             "tertiaryColor": "green",
             "primaryFont": "title1",
@@ -281,12 +282,12 @@
                 "all": null
             }
         },
-        "primaryColor": "nlb",
+        "primaryColor": "opa",
         "secondaryColor": "red",
         "tertiaryColor": "green",
         "primaryFont": "caption1",
         "secondaryFont": "body",
-        "height": 128,
+        "height": 64,
         "width": null,
         "cornerRadius": {
             "top": null,
@@ -311,9 +312,9 @@
         }
     },
     "buttonStyle": {
-        "primaryColor": "nlb",
+        "primaryColor": "opa",
         "secondaryColor": "white",
-        "tertiaryColor": "bla2ck",
+        "tertiaryColor": "black",
         "primaryFont": "title1",
         "secondaryFont": "body",
         "height": 55,
@@ -327,7 +328,7 @@
         },
         "margine": {
             "top": 0,
-            "bottom": 0,
+            "bottom": 12,
             "left": 16,
             "right": 16,
             "all": null
